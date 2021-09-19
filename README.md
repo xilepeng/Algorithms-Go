@@ -1,4 +1,4 @@
-# 《数据结构与算法之美》Go语言描述
+# 《数据结构与算法之美》Golang
 
 
 <audio id="audio" controls="" preload="none">
