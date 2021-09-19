@@ -6,6 +6,9 @@
       </audio>
 
 
-<!-- <video id="video" controls="" preload="none" poster="http://om2bks7xs.bkt.clouddn.com/2017-08-26-Markdown-Advance-Video.jpg">
-      <source id="mp4" src="http://om2bks7xs.bkt.clouddn.com/2017-08-26-Markdown-Advance-Video.mp4" type="video/mp4">
-      </video> -->
+<div align=life> 
+<iframe frameborder="0" marginwidth="0" marginheight="0" width=300 height=86 src="https://c.y.qq.com/base/fcgi-bin/u?__=Jj9vuf9"></iframe>
+</div>
+
+
+
