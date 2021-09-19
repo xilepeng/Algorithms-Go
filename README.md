@@ -7,7 +7,8 @@
 
 
 <div align=life> 
-<iframe frameborder="0" marginwidth="0" marginheight="0" width=300 height=86 src="https://c.y.qq.com/base/fcgi-bin/u?__=Jj9vuf9"></iframe>
+<iframe frameborder="0" marginwidth="0" marginheight="0" width=300 height=86 src="https://c.y.qq.com/base/fcgi-bin/u?__=Jj9vuf9">
+</iframe>
 </div>
 
 
